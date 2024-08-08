@@ -1,0 +1,14 @@
+var text = ""
+text[index]
+text.charat(index)
+text.charcodeat(index) ascii charcodeatte
+text.concat("")
+text.trim() remove the space
+text.toUpperCase()
+text.tolowercase()
+text.search() return index of the searching word
+text.index of same as search
+text.slice(index,index)
+text.substr(index,length)
+text.substring(index,index)
+question:diffrence between slice-substr-substring
